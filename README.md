@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @legacy-dev6
 - 🌱 I’m currently learning
-- 👀 I’m interested to work in backend.
+- 👀 I’m interested in web development
 
 
 <!---
